@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Michael Slack
+- 👋 Hi, I’m Michael Slack, been a senior developer and tech lead along with managing a T3 tech support group
 - 📫 Can be reached via e-mail at mike.g.slack@gmail.com or slackmg@live.com
 
 <!---
